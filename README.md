@@ -1,5 +1,5 @@
 # Multi-file-creation
-Create multiple folders and folder contents with python
+#Create multiple folders and folder contents with python
 
 def mkdir(path):
     import os  #引入模块
